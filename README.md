@@ -21,7 +21,7 @@
 mpx cypress run 
 ```
 
-### please make sure that following steps should before running the test cases
+### please make sure that following steps should be executed before running the test cases on web page
 1. git clone https://github.com/spring-projects/spring-petclinic.git
 1. cd spring-petclinic
 1. ./mvnw package
