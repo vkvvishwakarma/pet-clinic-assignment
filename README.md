@@ -16,7 +16,7 @@
 #### test cases written in pet-clinic folders
 1. cypress -> e2e -> pet-clinic
 
-* How to cypress test cases from command line
+* How to run the cypress test cases from command line
 ```
 mpx cypress run 
 ```
