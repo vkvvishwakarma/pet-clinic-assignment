@@ -26,7 +26,7 @@ var values =[];
         cy.get('[href$="pets/new"]').should("be.visible").click();
     })
 
-    it("should add pets ",() => {
+    it("should add pets and validate",() => {
         var dDate= "2022-06-20"
         cy.get(".form-group").first().find("label").first().invoke("text").should("contain","Owner");
         cy.get(".form-group").first().find("div").first().invoke("text").should("include",values[0]+" "+values[1])
