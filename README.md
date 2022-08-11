@@ -18,7 +18,7 @@
 
 * How to run the cypress test cases from command line
 ```
-mpx cypress run 
+npx cypress run 
 ```
 
 ### please make sure that following steps should be executed before running the test cases on web page
