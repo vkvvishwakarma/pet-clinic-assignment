@@ -13,7 +13,7 @@
   ```
   npm i -D cypress-image-diff-js
   ```
-#### test cases written in pet-clinic folders
+#### test cases written in pet-clinic folder
 1. cypress -> e2e -> pet-clinic
 
 * How to run the cypress test cases from command line
